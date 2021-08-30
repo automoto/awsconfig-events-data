@@ -5,4 +5,4 @@ The awsconfig events come from an account that creates and destroys infrastructu
 
 Check out the latest releases https://github.com/automoto/awsconfig-events-data/releases
 
-The releases are named and tagged using the timestamp when they were created. Records in the data set should be from events from within the past few hours or the last 24 hours.
+The releases are named and tagged using the timestamp when they were created. Records in the data are generally an archive of awsconfig events from within the past few hours or the last 24 hours from the release being created.
